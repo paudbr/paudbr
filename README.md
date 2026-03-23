@@ -1,6 +1,6 @@
 # Hi, I'm Paula 👋
 
-🎓 Biotechnologist | Bioinformatics & Data Science · Universidad de Navarra  
+🎓 Biotechnologist (Computational track) Universidad Politécnica de Madrid (UPM) | Bioinformatics & Data Science · Universidad de Navarra  
 🔬 Passionate about  omics / deep learning applied to biological data  
 📍 Spain
 
