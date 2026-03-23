@@ -15,14 +15,17 @@ into meaningful insights.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [DAC anti-PDL1 MSc Thesis](https://github.com/paudbr/DAC_anti-PDL1_MSc_thesis) | MSc thesis on drug analysis applied to cancer immunotherapy | Python · Jupyter |
+| [DAC anti-PDL1 MSc Thesis](https://github.com/paudbr/DAC_anti-PDL1_MSc_thesis) | MSc thesis — drug analysis applied to cancer immunotherapy | Python · Jupyter |
 | [BSc SV Calling Pipeline](https://github.com/paudbr/BSc_thesis_SVcalling_pipeline) | Structural variant calling pipeline for genomic data | Python · Nextflow |
+| [wf-human-variation](https://github.com/paudbr/wf-human-variation-paula) | Human genome variation analysis workflow | Nextflow |
 | [Leucine Zippers](https://github.com/paudbr/Leucine_Zippers) | Structural biology analysis of leucine zipper motifs | Jupyter |
-| [LSTM Text Classification](https://github.com/paudbr/LSTM_text_classification_prediction) | Text classification with LSTM networks | Python |
+| [LSTM Text Classification](https://github.com/paudbr/LSTM_text_classification_prediction) | Sequence classification with LSTM networks | Python |
+| [Drug Database Menu](https://github.com/paudbr/Drug_database_menu) | Interactive CLI for querying a drug database | Python |
+| [Chipless RFID Classification](https://github.com/paudbr/chipless-rfid-classification) | CNN-based tag classification from backscattered signal images | Python · PyTorch |
 
 ---
 
