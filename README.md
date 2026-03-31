@@ -25,7 +25,7 @@ into meaningful insights.
 | [Leucine Zippers](https://github.com/paudbr/Leucine_Zippers) | Structural biology analysis of leucine zipper motifs | Jupyter |
 | [LSTM Text Classification](https://github.com/paudbr/LSTM_text_classification_prediction) | Sequence classification with LSTM networks | Python |
 | [Drug Database Menu](https://github.com/paudbr/Drug_database_menu) | Interactive CLI for querying a drug database | Python |
-| [Chipless RFID Classification](https://github.com/paudbr/chipless-rfid-classification) | CNN-based tag classification from backscattered signal images | Python · PyTorch |
+| [Chipless RFID Classification](https://github.com/paudbr/Chipless_rfid_classification) | CNN-based tag classification from backscattered signal images | Python · PyTorch |
 
 ---
 
