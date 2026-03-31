@@ -18,7 +18,7 @@ into meaningful insights.
 ## 🚀 Projects
 
 | Project | Description | Tech |
-|---|---|---|
+|[TCR_T1D_prediction_ML](https://github.com/paudbr/TCR_T1D_prediction_ML)|Comparative study using ESM-2 Transformer embeddings and BLOSUM50 to classify autoreactive T-cell receptors in Type 1 Diabetes. Features a Leave-One-Antigen-Out validation strategy|Python · ESM-2 · Scikit-learn|
 | [DAC anti-PDL1 MSc Thesis](https://github.com/paudbr/DAC_anti-PDL1_MSc_thesis) | MSc thesis — drug analysis applied to cancer immunotherapy | Python · Jupyter |
 | [BSc SV Calling Pipeline](https://github.com/paudbr/BSc_thesis_SVcalling_pipeline) | Structural variant calling pipeline for genomic data | Python · Nextflow |
 | [wf-human-variation](https://github.com/paudbr/wf-human-variation-paula) | Human genome variation analysis workflow | Nextflow |
